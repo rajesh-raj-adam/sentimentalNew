@@ -1,0 +1,54 @@
+product category,product,product rating,review of product
+Electronics,Smartphone,5,This smartphone is amazing! The camera quality is top-notch and the battery life is impressive.
+Clothing,Shirt,5,Love the design and fit of this shirt. The fabric is soft and comfortable.
+Home and Kitchen,Coffee Maker,5,The coffee maker brews coffee quickly and the flavor is rich. I use it every morning.
+Electronics,Smartphone,3,The phone is decent, but the battery drains quickly and the camera could be better.
+Home and Kitchen,Blender,4,This blender is powerful and makes smoothies in seconds. It's easy to clean as well.
+Electronics,Headphones,2,Disappointed with the headphones. The sound is not clear and they broke after a few weeks of use.
+Home and Kitchen,Coffee Maker,3,The coffee maker works fine, but it's a bit noisy and the design could be better.
+Clothing,Jeans,2,The jeans shrunk after the first wash and the quality is not worth the price.
+Electronics,Headphones,4,These headphones have excellent sound quality and are comfortable to wear for long periods.
+Clothing,Shirt,3,The shirt is okay, but the color faded after a few washes.
+Clothing,Jeans,4,These jeans are stylish and fit well. They're a great addition to my wardrobe.
+Electronics,Blender,2,Not satisfied with the blender. It struggled to blend tougher ingredients and started leaking.
+Electronics,Smartwatch,5,The smartwatch is impressive. It tracks my activities accurately and has a sleek design.
+Home and Kitchen,Toaster,4,The toaster toasts bread evenly and quickly. It's a reliable addition to the kitchen.
+Clothing,Sweater,3,The sweater is comfortable, but the stitching quality could be better.
+Electronics,Laptop,4,The laptop is fast and handles multiple tasks effortlessly. The battery life is decent.
+Home and Kitchen,Rice Cooker,5,The rice cooker makes perfect rice every time. It's a must-have for any kitchen.
+Electronics,Smartphone,1,Very disappointed with the smartphone. It lags and the battery drains incredibly fast.
+Clothing,Dress,5,The dress is elegant and fits perfectly. I received many compliments when I wore it.
+Home and Kitchen,Blender,3,The blender is decent for basic blending tasks, but struggles with ice and frozen fruits.
+Electronics,Headphones,4,These noise-canceling headphones are a game-changer during my commute. Sound quality is great.
+Electronics,Laptop,5,The laptop exceeded my expectations. It's powerful and the display is stunning.
+Clothing,Shirt,2,Not happy with the shirt. The sizing is off and the fabric feels cheap.
+Home and Kitchen,Coffee Maker,5,The coffee maker is my morning savior. It brews a strong cup of coffee to kickstart my day.
+Electronics,Wireless Earbuds,4,These wireless earbuds have good sound quality and stay in place during workouts.
+Clothing,Jeans,5,These jeans are my new favorite. They're comfortable and the color doesn't fade after washing.
+Home and Kitchen,Blender,1,The blender broke after a few uses. Poor quality and disappointing performance.
+Electronics,Smartphone,4,The smartphone is reliable and the camera takes clear photos. The battery could be better.
+Electronics,Laptop,3,The laptop is decent, but it heats up quickly and the battery life is subpar.
+Clothing,Sweater,5,The sweater is cozy and warm. It's perfect for cold weather.
+Home and Kitchen,Microwave,4,The microwave heats food evenly and has convenient presets for different dishes.
+Electronics,Wireless Earbuds,2,The wireless earbuds have connectivity issues and the battery life is disappointing.
+Clothing,Dress,5,Received many compliments on the dress. It's well-made and fits beautifully.
+Home and Kitchen,Toaster,3,The toaster is functional, but the design is a bit outdated.
+Electronics,Smartwatch,4,The smartwatch has a sleek design and the fitness tracking features are accurate.
+Electronics,Smartphone,5,This smartphone is a game-changer. It's fast, has a great camera, and the battery lasts all day.
+Home and Kitchen,Rice Cooker,4,The rice cooker is easy to use and cooks rice perfectly every time.
+Electronics,Headphones,3,The headphones are comfortable, but the sound quality is average.
+Electronics,Laptop,5,The laptop is excellent for work and entertainment. Fast performance and vibrant display.
+Clothing,Jeans,4,These jeans fit well and are comfortable for everyday wear.
+Home and Kitchen,Blender,5,The blender is powerful and blends smoothies to perfection.
+Electronics,Smartwatch,2,Disappointed with the smartwatch. The battery drains quickly and the apps are buggy.
+Electronics,Smartphone,4,The smartphone meets my needs. The camera is good and it's user-friendly.
+Clothing,Shirt,5,Love the soft fabric of this shirt. It's great for casual wear.
+Home and Kitchen,Coffee Maker,3,The coffee maker is okay, but the brewing time is a bit slow.
+Electronics,Wireless Earbuds,5,These wireless earbuds have great sound quality and the battery life is impressive.
+Clothing,Dress,4,The dress is elegant and well-made. It's suitable for special occasions.
+Home and Kitchen,Toaster,5,The toaster works like a charm and toasts bread evenly.
+Electronics,Smartwatch,3,The smartwatch is decent, but the screen could be brighter.
+Electronics,Smartphone,5,The smartphone is top-notch. The camera features are impressive.
+Home and Kitchen,Microwave,3,The microwave does its job, but the controls are a bit confusing.
+Electronics,Headphones,4,These headphones provide immersive sound and are comfortable to wear.
+Electronics,Laptop,2,The laptop is slow and freezes frequently. Not happy with the performance.
